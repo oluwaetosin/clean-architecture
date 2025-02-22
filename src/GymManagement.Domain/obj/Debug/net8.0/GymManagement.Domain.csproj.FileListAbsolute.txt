@@ -1,0 +1,12 @@
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Domain/bin/Debug/net8.0/GymManagement.Domain.deps.json
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Domain/bin/Debug/net8.0/GymManagement.Domain.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Domain/bin/Debug/net8.0/GymManagement.Domain.pdb
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.AssemblyInfoInputs.cache
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.AssemblyInfo.cs
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.sourcelink.json
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Domain/obj/Debug/net8.0/refint/GymManagement.Domain.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.pdb
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Domain/obj/Debug/net8.0/ref/GymManagement.Domain.dll

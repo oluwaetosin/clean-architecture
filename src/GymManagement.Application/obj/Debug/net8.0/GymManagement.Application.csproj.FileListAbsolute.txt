@@ -1,0 +1,16 @@
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/bin/Debug/net8.0/GymManagement.Application.deps.json
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/bin/Debug/net8.0/GymManagement.Application.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/bin/Debug/net8.0/GymManagement.Application.pdb
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/bin/Debug/net8.0/GymManagement.Domain.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/bin/Debug/net8.0/GymManagement.Domain.pdb
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.csproj.AssemblyReference.cache
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.AssemblyInfoInputs.cache
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.AssemblyInfo.cs
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.csproj.CoreCompileInputs.cache
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.sourcelink.json
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/obj/Debug/net8.0/GymManag.E831DFE7.Up2Date
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/obj/Debug/net8.0/refint/GymManagement.Application.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.pdb
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Application/obj/Debug/net8.0/ref/GymManagement.Application.dll
