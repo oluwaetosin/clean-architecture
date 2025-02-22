@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0Bp27TDY3As=",
+  "dgSpecHash": "SPMnX9/3Zlg=",
   "success": true,
   "projectFilePath": "/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Infrastructure/GymManagement.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/tosinomotayo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

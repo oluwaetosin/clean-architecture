@@ -36,3 +36,5 @@
 /Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/obj/Debug/net8.0/GymManagement.Api.pdb
 /Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/obj/Debug/net8.0/GymManagement.Api.genruntimeconfig.cache
 /Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/obj/Debug/net8.0/ref/GymManagement.Api.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/bin/Debug/net8.0/GymManagement.Contracts.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/bin/Debug/net8.0/GymManagement.Contracts.pdb
