@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "RTlJ3mIZrS8=",
+  "dgSpecHash": "FkfdRq4MIdY=",
   "success": true,
   "projectFilePath": "/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/GymManagement.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/tosinomotayo/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/tosinomotayo/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/tosinomotayo/.nuget/packages/microsoft.aspnetcore.openapi/8.0.6/microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "/Users/tosinomotayo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/tosinomotayo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",

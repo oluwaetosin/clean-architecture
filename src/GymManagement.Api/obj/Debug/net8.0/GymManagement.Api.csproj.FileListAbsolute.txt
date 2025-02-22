@@ -38,3 +38,8 @@
 /Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/obj/Debug/net8.0/ref/GymManagement.Api.dll
 /Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/bin/Debug/net8.0/GymManagement.Contracts.dll
 /Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/bin/Debug/net8.0/GymManagement.Contracts.pdb
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/bin/Debug/net8.0/MediatR.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/bin/Debug/net8.0/GymManagement.Infrastructure.dll
+/Users/tosinomotayo/Desktop/code/clean-architecture/src/GymManagement.Api/bin/Debug/net8.0/GymManagement.Infrastructure.pdb
